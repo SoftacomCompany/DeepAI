@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.950,C:\Users\babas\Desktop\DeepAI_Source\DeepAI_Source\Unit1.fmx=C:\Users\babas\Desktop\DeepAIColorizer\Main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.950,C:\Users\babas\Desktop\DeepAI_Source\DeepAI_Source\Unit1.pas=C:\Users\babas\Desktop\DeepAIColorizer\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,C:\Users\babas\Desktop\DeepAI_Source\DeepAI_Source\HTTPPost.dproj=C:\Users\babas\Desktop\DeepAIColorizer\DeepAIProject.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

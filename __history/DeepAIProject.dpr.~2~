@@ -1,0 +1,14 @@
+program DeepAIProject;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  Main in 'Main.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  AApplication.CreateForm(TForm1, Form1);
+  pplication.Run;
+end.
